@@ -1,0 +1,60 @@
+/**
+ * @name LMS
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/pAfa0De.jpg');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: top left;
+  --popout-image: url('https://i.imgur.com/esaSIjY.jpg');
+  --popout-image-blur: 2px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://i.imgur.com/4PW1IDz.jpg');
+  --overlay-image-blur: 2px;
+  --overlay-image-size: 100%;
+  --overlay-image-position: center;
+  --home-button-image: url('https://i.imgur.com/Nbc16Ut.jpg');
+  --home-button-size: 100%;
+  --home-button-position: top center;
+  --serverlist-brightness: 1;
+  --left-brightness: 1;
+  --middle-brightness: 0.88;
+  --right-brightness: 1;
+  --overlay-brightness: 0.58;
+  --gradient-primary: 9,25,44;
+  --gradient-secondary: 0,0,0;
+  --link-colour: #F44336;
+  --scrollbar-colour: rgb(0,0,0,1);
+  --gradient-direction: 0deg;
+  --tint-colour: 0,0,0;
+  --tint-brightness: 0.1;
+  --font: PT Sans;
+  --window-padding: 0px;
+  --window-roundness: 0px;
+  --update-notice-1: none;
+  --columns: 2;
+  --guildgap: 1;
+  --aligndms: 0;
+}
+
+/* Any custom CSS below here */
+
+
