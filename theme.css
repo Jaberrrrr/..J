@@ -53,6 +53,8 @@
   --columns: 2;
   --guildgap: 1;
   --aligndms: 0;
+  --overlay-brightness: 0.7;
+
 }
 
 /* Any custom CSS below here */
