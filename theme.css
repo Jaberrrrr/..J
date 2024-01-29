@@ -57,3 +57,15 @@
 }
 
 /* Any custom CSS below here */
+
+/* Add the ping color for regular and unread messages */
+.message-group.animate > .containerCozy-3slmR8 {
+    background-color: rgba(255, 255, 0, 0.3); /* Yellow color with opacity */
+    border-left: 3px solid #ffcc00; /* Yellow border color */
+    transition: background-color 0.2s ease-out, border-left-color 0.2s ease-out;
+}
+
+.message-group.animate.unread > .containerCozy-3slmR8 {
+    background-color: rgba(255, 255, 0, 0.3); /* Yellow color with opacity */
+    border-left: 3px solid #ffcc00; /* Yellow border color */
+}
